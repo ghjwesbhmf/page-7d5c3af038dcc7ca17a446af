@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://051q6ch.com/sitemap.xml
